@@ -1,0 +1,10 @@
+body  {
+    background-image: url("landingpagephoto.jpg");
+}
+ul.nav li {
+  display: inline-block;
+  padding-right: 10px;
+}
+div.li {
+  text-align: center;
+}
